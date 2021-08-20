@@ -1,2 +1,3 @@
 teste primeiro arquivo A
 adicinando conteudo
+novo teste  A
